@@ -1,0 +1,5 @@
+{
+  "name": "SocialSync AI",
+  "description": "A cross-platform social media content generator powered by Gemini 2.5 Flash and Gemini 3 Pro. Generate text, images, and videos tailored for LinkedIn, Twitter, and Instagram.",
+  "requestFramePermissions": []
+}
